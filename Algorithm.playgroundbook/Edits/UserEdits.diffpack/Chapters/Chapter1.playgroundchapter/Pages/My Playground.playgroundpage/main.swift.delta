@@ -14,20 +14,16 @@ let node23 = ListNode(4)
 let node22 = ListNode(6, node23)
 let node21 = ListNode(5, node22)
 
+Solution.debugLog = true
 Solution().addTwoNumbers(node1, node21)?.debug()
 (node21 ?+ node1)?.shortDebug()
-
-var array = [233,5,40,8,90,10,12,1,6,66]
-print(SortAlgorithm().bubbleSort(&amp;array))
-print(SortAlgorithm().selectionSort(&amp;array, by: .Large))
 </string>
 			<key>ModifiedRange</key>
-			<string>{0, 401}</string>
+			<string>{1, 285}</string>
 			<key>OriginalContent</key>
-			<string>
-</string>
+			<string></string>
 			<key>OriginalRange</key>
-			<string>{0, 1}</string>
+			<string>{1, 0}</string>
 		</dict>
 	</array>
 	<key>FormatVersion</key>

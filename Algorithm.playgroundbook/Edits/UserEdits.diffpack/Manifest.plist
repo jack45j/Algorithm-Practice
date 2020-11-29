@@ -10,27 +10,39 @@
 	<string>PlaygroundBookUserEdit</string>
 	<key>Diffs</key>
 	<dict>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/31B71056-2E1E-43A6-8037-5EF4C958B6DD.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/B789DADF-2B9E-4081-B77C-B5C122FA3A9F.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/B789DADF-2B9E-4081-B77C-B5C122FA3A9F.playgroundpage/main.swift</key>
+		<string>Modified</string>
 		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/UserManifest.plist</key>
 		<string>Added</string>
 		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</key>
 		<string>Modified</string>
 		<key>Chapters/Chapter1.playgroundchapter/UserManifest.plist</key>
 		<string>Added</string>
-		<key>UserModules/Problems.playgroundmodule/Sources/000-ListNode.swift</key>
+		<key>UserModules/LeetCode2020Dec.playgroundmodule/Sources/000-LeetCode2020Dec.swift</key>
 		<string>Added</string>
-		<key>UserModules/Problems.playgroundmodule/Sources/000-Solution.swift</key>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/000-DebugLog.swift</key>
 		<string>Added</string>
-		<key>UserModules/Problems.playgroundmodule/Sources/001-twoSum.swift</key>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/000-ListNode.swift</key>
 		<string>Added</string>
-		<key>UserModules/Problems.playgroundmodule/Sources/002-Add Two Numbers.swift</key>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/000-Solution.swift</key>
 		<string>Added</string>
-		<key>UserModules/SortAlgrithm.playgroundmodule/Sources/000-SortAlgrithm.swift</key>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/001-twoSum.swift</key>
 		<string>Added</string>
-		<key>UserModules/SortAlgrithm.playgroundmodule/Sources/BubbleSort.swift</key>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/002-Add Two Numbers.swift</key>
 		<string>Added</string>
-		<key>UserModules/SortAlgrithm.playgroundmodule/Sources/InsertionSort.swift</key>
+		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/000-DebugLog.swift</key>
 		<string>Added</string>
-		<key>UserModules/SortAlgrithm.playgroundmodule/Sources/SelectionSort.swift</key>
+		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/000-SortAlgorithm.swift</key>
+		<string>Added</string>
+		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/BubbleSort.swift</key>
+		<string>Added</string>
+		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/InsertionSort.swift</key>
+		<string>Added</string>
+		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/SelectionSort.swift</key>
 		<string>Added</string>
 		<key>UserModules/UserModule.playgroundmodule/Sources/SharedCode.swift</key>
 		<string>Removed</string>

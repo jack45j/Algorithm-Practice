@@ -13,8 +13,8 @@ extension ListNode {
         var node: ListNode? = self
         while node != nil {
             guard let notNilNode = node else { return }
-            print("Node val: \(notNilNode.val)")
-            if notNilNode.next != nil { print("V") }
+            DebugLog("Node val: \(notNilNode.val)")
+            if notNilNode.next != nil { DebugLog("V") }
             node = notNilNode.next
         }
     }
@@ -31,7 +31,7 @@ extension ListNode {
             if notNilNode.next != nil { result += ">>>" }
             node = notNilNode.next
         }
-        print(result)
+        DebugLog(result)
     }
     
     
