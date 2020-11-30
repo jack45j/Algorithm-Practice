@@ -62,10 +62,14 @@
 		<string>Added</string>
 		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/InsertionSort.swift</key>
 		<string>Added</string>
+		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/MergeSort.swift</key>
+		<string>Added</string>
 		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/SelectionSort.swift</key>
 		<string>Added</string>
 		<key>UserModules/UserModule.playgroundmodule/Sources/SharedCode.swift</key>
 		<string>Removed</string>
+		<key>UserModules/Utils.playgroundmodule/Sources/randomList.swift</key>
+		<string>Added</string>
 	</dict>
 	<key>FormatVersion</key>
 	<integer>2</integer>
