@@ -16,6 +16,10 @@
 		<string>Added</string>
 		<key>Chapters/Chapter1.playgroundchapter/Pages/B789DADF-2B9E-4081-B77C-B5C122FA3A9F.playgroundpage/main.swift</key>
 		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/C0CCC5FC-2DCD-4FB2-83F1-3D756113CAB6.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/C0CCC5FC-2DCD-4FB2-83F1-3D756113CAB6.playgroundpage/main.swift</key>
+		<string>Modified</string>
 		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/UserManifest.plist</key>
 		<string>Added</string>
 		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</key>
@@ -33,6 +37,22 @@
 		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/001-twoSum.swift</key>
 		<string>Added</string>
 		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/002-Add Two Numbers.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/026-Remove Duplicates from Sorted Array.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/121-Best Time to Buy and Sell Stock.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/122-Best Time to Buy and Sell Stock II.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/189-Rotate Array.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/000-DebugLog.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/000-LeetCodeInterview.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/001-Remove Duplicates from Sorter Array.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/002-Best Time to Buy and Sell Stock II.swift</key>
 		<string>Added</string>
 		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/000-DebugLog.swift</key>
 		<string>Added</string>

@@ -8,15 +8,12 @@
 	<array>
 		<dict>
 			<key>ModifiedContent</key>
-			<string>var array = [40,8,90,10,12,1,6,66,233]
-SortAlgorithm.debugLog = true
-//  print(SortAlgorithm.bubbleSort(&amp;array))
-//  print(SortAlgorithm.selectionSort(&amp;array, by: .Large))
-//  print(SortAlgorithm.insertionSortWithExtraSpace(&amp;array))
-print(SortAlgorithm.insertionSort(&amp;array, &lt;))
+			<string>var array = [0,0,1,1,1,2,2,3,3,4]
+var emptyArr: [Int] = []
+print(LCInterview._002_maxProfit([7,1,5,3,6,4]))
 </string>
 			<key>ModifiedRange</key>
-			<string>{0, 279}</string>
+			<string>{0, 108}</string>
 			<key>OriginalContent</key>
 			<string>
 </string>

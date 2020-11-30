@@ -15,11 +15,17 @@ let node22 = ListNode(6, node23)
 let node21 = ListNode(5, node22)
 
 Solution.debugLog = true
-Solution().addTwoNumbers(node1, node21)?.debug()
-(node21 ?+ node1)?.shortDebug()
+//  Solution.addTwoNumbers(node1, node21)?.debug()
+//  (node21 ?+ node1)?.shortDebug()
+
+var prices = [7,1,5,3,6,4]
+print(Solution._122_maxProfit(prices))
+
+Solution._189_preferRotate(&amp;prices, 3)
+print(prices)
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 285}</string>
+			<string>{1, 412}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>

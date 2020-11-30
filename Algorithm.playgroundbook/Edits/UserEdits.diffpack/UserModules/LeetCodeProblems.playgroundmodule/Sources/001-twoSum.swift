@@ -1,5 +1,5 @@
 extension Solution { 
-    public func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+    public func _001_twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         for fir in 0..<nums.count {
             for sec in fir+1..<nums.count {
             if nums[fir] + nums[sec] == target { return [fir, sec] }
@@ -11,7 +11,7 @@ extension Solution {
 
 //  Hash table
 extension Solution {
-    func preferTwoSum(_ nums: [Int], _ target: Int) -> [Int] {
+    func _001_preferTwoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var result = [Int](repeatElement(0, count: 2))
         var map = [Int: Int]()
         

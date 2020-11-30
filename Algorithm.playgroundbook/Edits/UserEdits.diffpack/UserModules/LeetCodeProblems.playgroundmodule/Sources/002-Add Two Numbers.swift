@@ -1,5 +1,5 @@
 extension Solution {
-    public func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+    public static func _002_addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var l1 = l1
         var l2 = l2
         var result: ListNode?

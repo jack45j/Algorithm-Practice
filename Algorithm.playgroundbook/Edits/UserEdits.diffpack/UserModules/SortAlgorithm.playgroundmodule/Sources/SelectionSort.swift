@@ -1,9 +1,5 @@
 extension SortAlgorithm {
-    public enum SelectionSortDirection {
-        case Large
-        case Small
-    }
-    
+    // FR: https://github.com/raywenderlich/swift-algorithm-club/tree/master/Selection%20Sort
     public static func selectionSort(_ list: inout [Int], by dir: SelectionSortDirection = .Small) -> [Int] {
         for left in 0..<list.count {
             var smallestOrLargest = dir == .Small ? left : list.count-left-1
@@ -27,4 +23,9 @@ extension SortAlgorithm {
         }
         return list
     }
+}
+
+public enum SelectionSortDirection {
+    case Large
+    case Small
 }

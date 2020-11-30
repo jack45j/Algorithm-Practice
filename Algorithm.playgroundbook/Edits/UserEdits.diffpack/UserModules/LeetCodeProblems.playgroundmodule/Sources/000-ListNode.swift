@@ -40,6 +40,6 @@ extension ListNode {
 infix operator ?+
 extension Optional where Wrapped == ListNode {
     static public func ?+(lhs: Wrapped?, rhs: Wrapped?) -> Wrapped? { 
-        return Solution().addTwoNumbers(lhs, rhs)
+        return Solution._002_addTwoNumbers(lhs, rhs)
     }
 }
