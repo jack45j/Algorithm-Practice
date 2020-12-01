@@ -46,6 +46,8 @@
 		<string>Added</string>
 		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/189-Rotate Array.swift</key>
 		<string>Added</string>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/217-Contains Duplicate.swift</key>
+		<string>Added</string>
 		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/000-DebugLog.swift</key>
 		<string>Added</string>
 		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/000-LeetCodeInterview.swift</key>
@@ -53,6 +55,10 @@
 		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/001-Remove Duplicates from Sorter Array.swift</key>
 		<string>Added</string>
 		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/002-Best Time to Buy and Sell Stock II.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/003-Rotate Array.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeTopInterView.playgroundmodule/Sources/004-Contains Duplicate.swift</key>
 		<string>Added</string>
 		<key>UserModules/SortAlgorithm.playgroundmodule/Sources/000-DebugLog.swift</key>
 		<string>Added</string>

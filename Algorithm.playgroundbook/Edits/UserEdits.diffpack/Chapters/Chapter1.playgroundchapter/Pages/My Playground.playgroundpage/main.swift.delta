@@ -18,14 +18,17 @@ Solution.debugLog = true
 //  Solution.addTwoNumbers(node1, node21)?.debug()
 //  (node21 ?+ node1)?.shortDebug()
 
-var prices = [7,1,5,3,6,4]
-print(Solution._122_maxProfit(prices))
+//  var prices = [7,1,5,3,6,4]
+//  print(Solution._122_maxProfit(prices))
+//  
+//  Solution._189_preferRotate(&amp;prices, 3)
+//  print(prices)
 
-Solution._189_preferRotate(&amp;prices, 3)
-print(prices)
+print(Solution._217_preferContainsDuplicate([3,1]))
+print(Solution._001_preferTwoSum([2,7,11,15], 22))
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 412}</string>
+			<string>{1, 536}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>

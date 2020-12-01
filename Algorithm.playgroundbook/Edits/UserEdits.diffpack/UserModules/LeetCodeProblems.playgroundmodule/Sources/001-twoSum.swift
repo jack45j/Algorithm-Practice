@@ -1,5 +1,5 @@
 extension Solution { 
-    public func _001_twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+    public static func _001_twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         for fir in 0..<nums.count {
             for sec in fir+1..<nums.count {
             if nums[fir] + nums[sec] == target { return [fir, sec] }
@@ -11,19 +11,21 @@ extension Solution {
 
 //  Hash table
 extension Solution {
-    func _001_preferTwoSum(_ nums: [Int], _ target: Int) -> [Int] {
-        var result = [Int](repeatElement(0, count: 2))
-        var map = [Int: Int]()
+    public static func _001_preferTwoSum(_ nums: [Int], _ target: Int) -> [Int] {
+        var dic = [Int:Int]()
         
         for i in 0..<nums.count {
-            if map.keys.contains(target - nums[i]) {
-                result[1] = i
-                result[0] = map[target - nums[i]]!
-                return result
+            DebugLog("Current i: \(i)")
+            if let index = dic[target - nums[i]] {
+                DebugLog("Current dict: \(dic)")
+                DebugLog("Target(\(target)) - nums[i](\(nums[i]))")
+                DebugLog("Found dic[target - nums[i]]: \(dic[target - nums[i]])")
+                return [index,i]
+            } else {
+                dic[nums[i]] = i
+                DebugLog("Current dic: \(dic)")
             }
-            map[nums[i]] = i
         }
-        
-        return result
+        return [0,0]
     }
 }

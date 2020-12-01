@@ -14,9 +14,11 @@ print(randomArray(elements: 5))
 var array = [0,0,1,1,1,2,2,3,3,4]
 var emptyArr: [Int] = []
 print(LCInterview._002_maxProfit([7,1,5,3,6,4]))
+
+print(LCInterview._003_rotate(&amp;array, 3))
 </string>
 			<key>ModifiedRange</key>
-			<string>{0, 154}</string>
+			<string>{0, 197}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
