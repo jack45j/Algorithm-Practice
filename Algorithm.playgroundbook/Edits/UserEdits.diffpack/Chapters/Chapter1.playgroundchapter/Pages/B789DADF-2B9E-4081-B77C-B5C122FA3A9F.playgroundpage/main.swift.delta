@@ -8,15 +8,30 @@
 	<array>
 		<dict>
 			<key>ModifiedContent</key>
-			<string>var array = [40,8,90,10,12,1,6,66,233]
-SortAlgorithm.debugLog = true
-//  print(SortAlgorithm.bubbleSort(&amp;array))
+			<string>import Utils
+var array = randomArray(elements: 200)
+var repeatArr = Array(repeating: 50, count: 200)
+SortAlgorithm.enableDebugLog = false
+let array1 = array
+Time.start()
+print(SortAlgorithm.mergeSort(array1))
+Time.stop()
+
+var array2 = array
+Time.start()
+print(SortAlgorithm.bubbleSort(&amp;array2))
+Time.stop()
+
+var array3 = array
+Time.start()
+print(array3.sorted())
+Time.stop()
 //  print(SortAlgorithm.selectionSort(&amp;array, by: .Large))
 //  print(SortAlgorithm.insertionSortWithExtraSpace(&amp;array))
-print(SortAlgorithm.insertionSort(&amp;array, &lt;))
+//  print(SortAlgorithm.insertionSort(&amp;array, &lt;))
 </string>
 			<key>ModifiedRange</key>
-			<string>{0, 279}</string>
+			<string>{0, 545}</string>
 			<key>OriginalContent</key>
 			<string>
 </string>

@@ -1,6 +1,4 @@
-
 extension SortAlgorithm {
-    // FR: https://github.com/raywenderlich/swift-algorithm-club/tree/master/Bubble%20Sort
     public static func bubbleSort(_ list: inout [Int]) -> [Int] {
         for left in 0..<list.count {
             // list.count - left的原因

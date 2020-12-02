@@ -1,4 +1,5 @@
-public struct Solution {
-    static public var debugLog = false
+import Utils
+public struct Solution: Debug {
+    public static var enableDebugLog = false
     public init() {}
 }

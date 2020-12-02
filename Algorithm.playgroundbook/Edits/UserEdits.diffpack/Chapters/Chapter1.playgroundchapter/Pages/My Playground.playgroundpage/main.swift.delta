@@ -25,10 +25,10 @@ Solution.debugLog = true
 //  print(prices)
 
 print(Solution._217_preferContainsDuplicate([3,1]))
-print(Solution._001_preferTwoSum([2,7,11,15], 22))
+print(Solution._001_preferTwoSum([2,7,11,15], 9))
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 536}</string>
+			<string>{1, 535}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>

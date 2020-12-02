@@ -1,6 +1,6 @@
 public struct DebugLog {
     public init(_ message: Any) {    
-        if Solution.debugLog {
+        if Solution.enableDebugLog {
             print("[Solution] \(message)")
         }
     }

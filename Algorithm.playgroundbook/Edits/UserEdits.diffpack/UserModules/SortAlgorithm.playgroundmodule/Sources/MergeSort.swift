@@ -1,5 +1,6 @@
 // https://github.com/shenyun2304/swift-algorithm-club-zhTW/tree/master/Merge%20Sort
 
+import Utils
 extension SortAlgorithm {
     public static func mergeSort(_ list: [Int]) -> [Int] {
         DebugLog("list: \(list)")
@@ -9,7 +10,6 @@ extension SortAlgorithm {
         let leftArray = mergeSort(Array(list[0..<middleIndex]))
         let rightArray = mergeSort(Array(list[middleIndex..<list.count]))
         DebugLog("left: \(leftArray) right: \(rightArray)")
-        
         return merge(leftPile: leftArray, rightPile: rightArray)
     }
 
