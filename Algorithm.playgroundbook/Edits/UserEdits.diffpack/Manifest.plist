@@ -38,11 +38,15 @@
 		<string>Added</string>
 		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/002-Add Two Numbers.swift</key>
 		<string>Added</string>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/003-Longest Substring Without Repeating Characters.swift</key>
+		<string>Added</string>
 		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/026-Remove Duplicates from Sorted Array.swift</key>
 		<string>Added</string>
 		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/121-Best Time to Buy and Sell Stock.swift</key>
 		<string>Added</string>
 		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/122-Best Time to Buy and Sell Stock II.swift</key>
+		<string>Added</string>
+		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/136-Single Number.swift</key>
 		<string>Added</string>
 		<key>UserModules/LeetCodeProblems.playgroundmodule/Sources/189-Rotate Array.swift</key>
 		<string>Added</string>
@@ -74,7 +78,7 @@
 		<string>Added</string>
 		<key>UserModules/UserModule.playgroundmodule/Sources/SharedCode.swift</key>
 		<string>Removed</string>
-		<key>UserModules/Utils.playgroundmodule/Sources/DebugType.swift</key>
+		<key>UserModules/Utils.playgroundmodule/Sources/Debug.swift</key>
 		<string>Added</string>
 		<key>UserModules/Utils.playgroundmodule/Sources/Time.swift</key>
 		<string>Added</string>

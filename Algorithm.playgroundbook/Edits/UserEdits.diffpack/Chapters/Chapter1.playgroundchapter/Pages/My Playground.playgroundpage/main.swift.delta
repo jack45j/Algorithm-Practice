@@ -6,33 +6,36 @@
 	<array>
 		<dict>
 			<key>ModifiedContent</key>
-			<string>let node3 = ListNode(3)
-let node2 = ListNode(4, node3)
-let node1 = ListNode(2, node2)
+			<string>print(Solution._136_singleNumber([1,4,4,2,1]))
 
-let node23 = ListNode(4)
-let node22 = ListNode(6, node23)
-let node21 = ListNode(5, node22)
+//  let node3 = ListNode(3)
+//  let node2 = ListNode(4, node3)
+//  let node1 = ListNode(2, node2)
+//  
+//  let node23 = ListNode(4)
+//  let node22 = ListNode(6, node23)
+//  let node21 = ListNode(5, node22)
 
-Solution.debugLog = true
+Solution.enableDebugLog = true
 //  Solution.addTwoNumbers(node1, node21)?.debug()
 //  (node21 ?+ node1)?.shortDebug()
-
 //  var prices = [7,1,5,3,6,4]
 //  print(Solution._122_maxProfit(prices))
 //  
 //  Solution._189_preferRotate(&amp;prices, 3)
 //  print(prices)
+//  print(Solution._217_preferContainsDuplicate([3,1]))
+//  print(Solution._001_preferTwoSum([2,7,11,15], 9))
 
-print(Solution._217_preferContainsDuplicate([3,1]))
-print(Solution._001_preferTwoSum([2,7,11,15], 9))
+//  print(Solution._003_lengthOfLongestSubstring("abcabcbb"))
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 535}</string>
+			<string>{0, 686}</string>
 			<key>OriginalContent</key>
-			<string></string>
+			<string>
+</string>
 			<key>OriginalRange</key>
-			<string>{1, 0}</string>
+			<string>{0, 1}</string>
 		</dict>
 	</array>
 	<key>FormatVersion</key>
